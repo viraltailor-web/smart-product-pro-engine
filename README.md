@@ -1,4 +1,4 @@
-Smart Product Master Pro Engine
+​Smart Product Master Pro Engine
 ​A high-performance, modular PHP engine designed for advanced WordPress product search and AJAX handling.
 ​🚀 Key Features
 ​Modular OOP Architecture: Decoupled classes for Database mapping and AJAX handling.
